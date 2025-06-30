@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+env/
+
+# Bot token and sensitive data
+*.env
+config.py
+
+# Persistence files
+todo_bot_persistence*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
